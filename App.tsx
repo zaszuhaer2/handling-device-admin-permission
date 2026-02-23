@@ -23,7 +23,7 @@ function App() {
     </SafeAreaProvider>
   );
 }
-
+// commit check
 function AppContent() {
   const safeAreaInsets = useSafeAreaInsets();
 
